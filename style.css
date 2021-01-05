@@ -1,17 +1,18 @@
 h1{
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 800;
     color:rgba(6, 8, 37, 0.918);
 }
 h2{
-    font-size: 45px;
+    font-size: 35px;
     font-weight: 700;
     color:rgba(38, 40, 70, 0.918);
 
 }
 p{
+   
     font-size: 25px;
-    font-weight: 750;
+    font-weight: 700;
     
 }
 body{
@@ -62,12 +63,62 @@ img{
     border-radius: 5px;
 
 }
+.more-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, rgb(32, 145, 116), darkgreen);
+    padding: 10px 20px;
+    color: lightgoldenrodyellow;
+    border-radius: 5px;
+}
 .first-part{
-    size: 500px;
+    size: 350px;
+    
 }
 .info{
     width: 40%;
-    
+    float:left;
     margin: 5%;
     padding left: 2% ;
+}
+.caption{
+    text-decoration-line:underline;
+}
+li{
+    font-size: 25px;
+    color:rgb(30, 11, 82);
+    font-weight: 700;
+    width: 40%;
+    margin: 2%;
+    padding: 1%;
+    
+}
+.info2{
+    width: 40%;
+    float:left;
+    margin: 5%;
+    padding left: 2% ;
+
+}
+.info3{
+    width: 40%;
+   
+    margin: 5%;
+    padding left: 2% ;
+}
+.info3 img{
+    align-content: center;
+    float: left;
+    width: 70%;
+}
+.third-part{
+    background-color: ;
+}
+footer{
+    text-align:justify;
+}
+.box{
+    box-shadow: 10px 10px 20px rgb(89, 116, 133);
+    border-radius: 5px;
+    height: 70%;
+    font-weight: 800;
 }
