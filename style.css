@@ -62,3 +62,12 @@ img{
     border-radius: 5px;
 
 }
+.first-part{
+    size: 500px;
+}
+.info{
+    width: 40%;
+    
+    margin: 5%;
+    padding left: 2% ;
+}
